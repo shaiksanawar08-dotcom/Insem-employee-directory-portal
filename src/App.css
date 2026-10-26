@@ -1,0 +1,23 @@
+body {
+  background-color: lightgray;
+  font-family: Arial;
+}
+
+h1 {
+  text-align: center;
+  color: blue;
+}
+
+.box {
+  background-color: white;
+  width: 250px;
+  margin: 20px auto;
+  padding: 10px;
+  text-align: center;
+  border: 1px solid black;
+}
+
+img {
+  width: 100px;
+  height: 100px;
+}
